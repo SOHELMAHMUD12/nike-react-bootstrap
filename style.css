@@ -22,3 +22,8 @@ body{
 .first-text{
     color: rgba(250, 128, 76, 1);
 }
+.product-container img{
+    width: 311px;
+    height: 311px;
+    background-color:rgba(0, 0, 0, 0.15);
+}
